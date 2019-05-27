@@ -1,2 +1,11 @@
-# test_code
-测试下博客模板是否可用
+# model_repo
+博客模板
+
+git clone xx.repo
+
+cd xx.repo
+
+npm install
+
+hexo clean & hexo g & hexo d
+
